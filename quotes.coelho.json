@@ -1,0 +1,33 @@
+{
+	"coelho" : {
+		"subjects" : [
+			"la posibilidad de realizar un sueño", 
+			"Dios", 
+			"sólo una cosa"
+		],
+		"verbs" : [
+			"nos da",
+			"trata de ver",
+			"vuelve",
+			"es",
+			"pueden cambiar"
+		],
+		"direct_complements" : [
+			"toda nuestra existencia",
+			"las señales que te lleven a él",
+			"una cosa",
+			"las cosas buenas"
+		],
+		"indirect_complements" : [
+			"a él",
+			"a ti mismo",
+			"a las dificultades"
+		],
+		"circumstancial_complements" : [
+			"cuando crezcas",
+			"cuando quieres realmente una cosa",
+			"todos los días",
+			"allí donde te lleven tus pasos"
+		]
+	}
+}
